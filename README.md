@@ -6,5 +6,5 @@ As a recent graduate, I am super excited to get started working within a team on
 
 - 🔭 I’m currently working on an IBM data science certification.
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I became interested in data science through the exploration of financial data.
 
