@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-
-As a recent graduate, I am super excited to get started working within a team on real world problems that require sound actionable advice found through proper data analysis.
+I am an experienced and driven professional with a keen eye towards the analytical needs from within a business. 
 
 - 🔭 I’m currently working on an IBM data science certification.
 
